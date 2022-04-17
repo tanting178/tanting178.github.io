@@ -24,7 +24,7 @@
   "boilerplate.containers.HomePage.start_project.header": "Start your next react project in seconds",
   "boilerplate.containers.HomePage.start_project.message": "If changes don't appear, remember to hard refresh",
   "boilerplate.containers.HomePage.tryme.atPrefix": "@",
-  "boilerplate.containers.HomePage.tryme.header": "Don't Try me!",
+  "boilerplate.containers.HomePage.tryme.header": "Please don't Try me!",
   "boilerplate.containers.HomePage.tryme.message": "Show Github repositories by",
   "boilerplate.containers.LocaleToggle.de": "de",
   "boilerplate.containers.LocaleToggle.en": "en",
